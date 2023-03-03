@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 20px 20px 10px;
+    background-color: gold;
+}
+
+nav h1 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+nav div {
+    display: flex;
+    gap: 42px;
+    text-decoration: none;
+}

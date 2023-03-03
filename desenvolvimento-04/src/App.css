@@ -1,0 +1,11 @@
+body {
+  background-color: #101010;
+}
+
+.App {
+  margin-top: 40vh;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+  color: #fff;
+}
